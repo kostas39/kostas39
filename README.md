@@ -1,12 +1,26 @@
-- 👋 Hi, I’m kostas
-- 👀 I’m a Software Developer
-- 🌱 I have started to learn about mobile development kotlin for android and swift for iOS apps.
-- 💞️ I’m looking to collaborate on React.js, next.js and mobile development.
-- 📫 How to reach me ...
-Website:https://www.kostaskoliolios.live/
-Email: kolioliosk@gmail.com
-Linkedin: https://www.linkedin.com/in/konstantinoskoliolios/
-<!---
-kostas39/kostas39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there, I'm Kostas 👋
+
+## About Me
+- 🔭 I’m currently working on iOS Development
+- 🌱 I’m currently learning Swift, SwiftUi
+- 👯 I’m looking to collaborate on iOS Development
+- 🤔 I’m looking for help with finding a mentor in iOS Development
+- 💬 Ask me about React.js 
+- 💡 Contributing to Open Source Projects is always been a goal to me.
+- 📫 How to reach me: kolioliosko@gmail.com
+
+## Connect with me:
+<a href="https://www.linkedin.com/in/konstantinoskoliolios/">
+  <img src="https://github.com/kostas39/kostas39/assets/linkedin_logo.png" alt="LinkedIn" width="30" height="30"/>
+</a>
+
+
+## Stats
+![Kostas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kostas39&show_icons=true&theme=dark)
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kostas39&layout=compact&theme=dark)
+
+---
+
+<sub>README updated on: `date`</sub>

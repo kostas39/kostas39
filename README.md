@@ -9,11 +9,6 @@
 - 💡 Contributing to Open Source Projects is always been a goal to me.
 - 📫 How to reach me: kolioliosko@gmail.com
 
-## Connect with me:
-<a href="https://www.linkedin.com/in/konstantinoskoliolios/">
-  <img src="https://github.com/kostas39/kostas39/assets/linkedin_logo.png" alt="LinkedIn" width="30" height="30"/>
-</a>
-
 
 ## Stats
 ![Kostas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kostas39&show_icons=true&theme=dark)

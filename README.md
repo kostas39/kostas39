@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning Swift, SwiftUi
 - 👯 I’m looking to collaborate on iOS Development
 - 🤔 I’m looking for help with finding a mentor in iOS Development
-- 💬 Ask me about React.js 
-- 💡 Contributing to Open Source Projects is always been a goal to me.
+- 💬 Ask me about iOS Development
 - 📫 How to reach me: kolioliosko@gmail.com
 
 

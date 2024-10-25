@@ -11,9 +11,6 @@
 
 
 
-## Stats
-![Kostas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kostas39&show_icons=true&theme=dark)
-
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kostas39&layout=compact&theme=dark)
 

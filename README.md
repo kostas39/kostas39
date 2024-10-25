@@ -1,9 +1,11 @@
 # Hi there, I'm Kostas 👋
 
 ## About Me
-- 🔭 I’m currently working on iOS Development
-- 👯 I’m looking to collaborate on iOS Development
-- 💬 Ask me about iOS Development
+- 🌐 Transitioning from iOS Development to Cloud Engineering
+- 🔭 Currently exploring AWS, Terraform, and Kubernetes
+- 🚀 Experienced in designing smooth user experiences and scaling cloud solutions
+- 👯 Looking to collaborate on Cloud and DevOps projects
+- 💬 Ask me about AWS, Terraform, and Cloud Engineering
 - 📫 How to reach me: kolioliosko@gmail.com
 - 🌍 https://www.kostaskoliolios.live/
 

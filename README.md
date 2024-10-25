@@ -16,4 +16,4 @@
 
 ---
 
-<sub>README updated on: `date`</sub>
+

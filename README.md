@@ -1,19 +1,28 @@
-# Hi there, I'm Kostas 👋
+<h1 align="center">Hi there, I'm Kostas 👋</h1>
 
 ## About Me
-- 🌐 Transitioning from iOS Development to Cloud Engineering
-- 🔭 Currently exploring AWS, Terraform, and Kubernetes
-- 🚀 Experienced in designing smooth user experiences and scaling cloud solutions
-- 👯 Looking to collaborate on Cloud and DevOps projects
-- 💬 Ask me about AWS, Terraform, and Cloud Engineering
-- 📫 How to reach me: kolioliosko@gmail.com
-- 🌍 https://www.kostaskoliolios.live/
 
+- Platform / DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD, Kubernetes, and Terraform
+- Currently working at EY, building and supporting scalable cloud platforms and deployment pipelines
+- AWS Solutions Architect Associate certified, with growing focus on GCP architecture and platform design
+- Experienced in Infrastructure as Code, automation, troubleshooting, and cloud-native environments
+- Interested in Platform Engineering, Kubernetes, cloud architecture, and scalable system design
+- Based in Greece, open to Platform Engineer opportunities in London
 
+## Tech Focus
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kostas39&layout=compact&theme=dark)
+- Terraform
+- Kubernetes
+- AWS
+- Azure
+- GCP
+- CI/CD
+- Networking
+- Cloud Architecture
 
----
+## Contact
+
+- Email: kolioliosko@gmail.com
+- Portfolio: https://www.kostaskoliolios.live/
 
 

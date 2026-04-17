@@ -7,7 +7,7 @@
 - AWS Solutions Architect Associate certified, with growing focus on GCP architecture and platform design
 - Experienced in Infrastructure as Code, automation, troubleshooting, and cloud-native environments
 - Interested in Platform Engineering, Kubernetes, cloud architecture, and scalable system design
-- Based in Greece, open to Platform Engineer opportunities in London
+
 
 ## Tech Focus
 
